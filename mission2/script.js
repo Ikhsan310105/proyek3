@@ -114,7 +114,7 @@ document.addEventListener("DOMContentLoaded", function() {
       const cartRow = document.createElement("tr");
       cartRow.innerHTML = `
         <th scope="row">
-          <img src="/gambar/gambar1.jpg" alt="Product Image" width="50">
+          <img src="./gambar/gambar1.jpg" alt="Product Image" width="50">
         </th>
         <td>${namaBarang}</td>
         <td>${jumlah}</td>
@@ -138,7 +138,7 @@ document.addEventListener("DOMContentLoaded", function() {
       const cartRow = document.createElement("tr");
       cartRow.innerHTML = `
         <th scope="row">
-          <img src="/gambar/gambar1.jpg" alt="Product Image" width="50">
+          <img src="./gambar/gambar1.jpg" alt="Product Image" width="50">
         </th>
         <td>${namaBarang}</td>
         <td>${jumlah}</td>
@@ -162,7 +162,7 @@ document.addEventListener("DOMContentLoaded", function() {
       const cartRow = document.createElement("tr");
       cartRow.innerHTML = `
         <th scope="row">
-          <img src="/gambar/gambar1.jpg" alt="Product Image" width="50">
+          <img src="./gambar/gambar1.jpg" alt="Product Image" width="50">
         </th>
         <td>${namaBarang}</td>
         <td>${jumlah}</td>
@@ -186,7 +186,7 @@ document.addEventListener("DOMContentLoaded", function() {
       const cartRow = document.createElement("tr");
       cartRow.innerHTML = `
         <th scope="row">
-          <img src="/gambar/gambar1.jpg" alt="Product Image" width="50">
+          <img src="./gambar/gambar1.jpg" alt="Product Image" width="50">
         </th>
         <td>${namaBarang}</td>
         <td>${jumlah}</td>
@@ -210,7 +210,7 @@ document.addEventListener("DOMContentLoaded", function() {
       const cartRow = document.createElement("tr");
       cartRow.innerHTML = `
         <th scope="row">
-          <img src="/gambar/gambar1.jpg" alt="Product Image" width="50">
+          <img src="./gambar/gambar1.jpg" alt="Product Image" width="50">
         </th>
         <td>${namaBarang}</td>
         <td>${jumlah}</td>
@@ -234,7 +234,7 @@ document.addEventListener("DOMContentLoaded", function() {
       const cartRow = document.createElement("tr");
       cartRow.innerHTML = `
         <th scope="row">
-          <img src="/gambar/gambar1.jpg" alt="Product Image" width="50">
+          <img src="./gambar/gambar1.jpg" alt="Product Image" width="50">
         </th>
         <td>${namaBarang}</td>
         <td>${jumlah}</td>
