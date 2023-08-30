@@ -279,6 +279,5 @@ document.addEventListener("DOMContentLoaded", function() {
         "nama": "Leci",
         "price": 60000
       },
-      // Add more objects as needed
     ];
   });
